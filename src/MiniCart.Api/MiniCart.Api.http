@@ -1,0 +1,6 @@
+@MiniCart.Api_HostAddress = http://localhost:5193
+
+GET {{MiniCart.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
