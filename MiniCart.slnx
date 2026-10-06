@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MiniCart.Api/MiniCart.Api.csproj" />
+    <Project Path="src/MiniCart.Application/MiniCart.Application.csproj" />
+    <Project Path="src/MiniCart.Domain/MiniCart.Domain.csproj" />
+    <Project Path="src/MiniCart.Infrastructure/MiniCart.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MiniCart.AcceptanceTests/MiniCart.AcceptanceTests.csproj" />
+    <Project Path="tests/MiniCart.IntegrationTests/MiniCart.IntegrationTests.csproj" />
+    <Project Path="tests/MiniCart.UnitTests/MiniCart.UnitTests.csproj" />
+  </Folder>
+</Solution>
